@@ -9,12 +9,12 @@ Repositorio oficial del proyecto transversal del Grupo 1.
 
 Index:
 -
-- Punto 1
-- Punto 2
-- Punto 3
-- Punto 4
+- Propuesta del CPD
+- Implantacion de los servicios de audio i vídeo
+- Disseño y implementacion de una base de datos
+- Sostenibilidad
 
-Manuals:
+Manuales:
 -
 - [BBDD](manuales/SMB%20y%20Monitoreo%20%28manual%29.pdf)
 - [Audio y Video](manuales/SMB%20y%20Monitoreo%20%28manual%29.pdf)
