@@ -40,7 +40,9 @@ La humedad será controlada mediante el mismo sensor de temperatura, ya que tien
 Como último, para la limpieza del aire utilizaremos sistemas de purificación en los conductos de ventilación por donde pasará el aire refrigerante del exterior
 
 [Purificador de aire](https://lacasadelchef.net/purificadores-de-aire/purificador-de-aire-para-montaje-en-conductos-powercell-9.html)
-
+![vallas](ubicacio/vallas.png)
+![redonda](ubicacio/redonda.png)
+![monitorizacion](ubicacio/monitorizacion.png)
 **Medida para dificultar la identificación de la sala:**  
 Las medidas de seguridad que implementaremos en la sala de los CPD será la identificación mediante una tarjeta que será asignada a cada empleado responsable del correcto funcionamiento de los servidores que esté en las instalaciones.
 
@@ -51,7 +53,7 @@ La elección de esta medida por encima de otras muy populares como pueden ser la
 * **Riesgo menor de fallo:** Los sistemas biométricos que utilizan las huellas dactilares y el reconocimiento del iris son más propensos al fallo (lesiones, cambios temporales, suciedad.)  
     
 * **Facilidad de reemplazo y actualización:** En caso de que una tarjeta se pierda, puede ser reemplazada rápidamente sin comprometer la seguridad.
-
+![tarjetas](ubicacio/tarjetas.png)
 **Distribución y gestión del cableado:**
 
 **Distribución:**  
