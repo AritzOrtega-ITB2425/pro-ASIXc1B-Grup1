@@ -13,7 +13,7 @@ Con estas tres características, Noruega se vuelve el país idóneo para colocar
 En cuanto la edificación hemos elegido el *“Innovation Dock de Stavanger”* debido a la infraestructura moderna de la edificación, su ubicación estratégica, la cual facilita la accesibilidad a los empleados asignados al mantenimiento del CPD y por último, pero no menos importante su entorno productivo y colaborador debido a las empresas colindantes donde la tecnología avanza junto con la calidad de vida.
 
 **Imagen de la edificación Física:**  
-![][image1]  
+![image1](ubicacio/mapsirl.png)  
 **Imagen de la estructura de nuestras oficinas:**  
 ![][image2]
 
