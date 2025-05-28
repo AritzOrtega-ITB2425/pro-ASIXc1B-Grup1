@@ -13,12 +13,12 @@ Con estas tres características, Noruega se vuelve el país idóneo para colocar
 En cuanto la edificación hemos elegido el *“Innovation Dock de Stavanger”* debido a la infraestructura moderna de la edificación, su ubicación estratégica, la cual facilita la accesibilidad a los empleados asignados al mantenimiento del CPD y por último, pero no menos importante su entorno productivo y colaborador debido a las empresas colindantes donde la tecnología avanza junto con la calidad de vida.
 
 **Imagen de la edificación Física:**  
-![image1](ubicacio/mapsirl.png)  
+![mapsirl](ubicacio/mapsirl.png)  
 **Imagen de la estructura de nuestras oficinas:**  
-![][image2]
+![plano3d](ubicacio/plano3d.png)
 
 **Posición de la ubicación en un mapa:**  
-**![][image3]**  
+**![maps](ubicacio/maps.png)**  
 **Sistemas de climatización, Niveles de temperatura, humedad y limpieza del aire:**
 
 **Sistemas de climatización:**  
@@ -89,7 +89,7 @@ En nuestras instalaciones utilizaremos un suelo convencional y un techo también
 Para esta técnica nos hemos basado en la estrategia de pasillos fríos y pasillos calientes que se utiliza normalmente en los CPD de todo el mundo.
 
 **Esquemas visuales del funcionamiento:**  
-![][image4]
+![][]
 
 **Planos, dibujos, diagramas de los elementos anteriormente mencionados:**  
 **![][image5]**
