@@ -89,11 +89,11 @@ En nuestras instalaciones utilizaremos un suelo convencional y un techo también
 Para esta técnica nos hemos basado en la estrategia de pasillos fríos y pasillos calientes que se utiliza normalmente en los CPD de todo el mundo.
 
 **Esquemas visuales del funcionamiento:**  
-![refrigeracion1](ubucacio/refrigeracion1.png)
+![refrigeracion1](ubicacio/refrigeracion1.png)
 ![refrigeracion2](ubicacio/refrigeracion2.png)
 
 **Planos, dibujos, diagramas de los elementos anteriormente mencionados:**  
-**![planos](planos.png)**
+**![planos](ubicacio/plano.png)**
 
 **Estructuración de los RACKS:**  
 Hemos elegido implementar 3 racks en la sala CPD, los cuales cada uno tendrá una funcionalidad concreta, a continuación explicamos cada uno y porque:
