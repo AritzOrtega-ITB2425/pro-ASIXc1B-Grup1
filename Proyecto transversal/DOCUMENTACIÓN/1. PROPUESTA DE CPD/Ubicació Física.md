@@ -40,7 +40,7 @@ La humedad será controlada mediante el mismo sensor de temperatura, ya que tien
 Como último, para la limpieza del aire utilizaremos sistemas de purificación en los conductos de ventilación por donde pasará el aire refrigerante del exterior
 
 [Purificador de aire](https://lacasadelchef.net/purificadores-de-aire/purificador-de-aire-para-montaje-en-conductos-powercell-9.html)
-![vallas](ubicacio/vallas.png)
+![valla](ubicacio/valla.png)
 ![redonda](ubicacio/redonda.png)
 ![monitorizacion](ubicacio/monitorizacion.png)
 **Medida para dificultar la identificación de la sala:**  
