@@ -40,9 +40,11 @@ La humedad será controlada mediante el mismo sensor de temperatura, ya que tien
 Como último, para la limpieza del aire utilizaremos sistemas de purificación en los conductos de ventilación por donde pasará el aire refrigerante del exterior
 
 [Purificador de aire](https://lacasadelchef.net/purificadores-de-aire/purificador-de-aire-para-montaje-en-conductos-powercell-9.html)
-![valla](ubicacio/valla.png)
-![redonda](ubicacio/redonda.png)
-![monitorizacion](ubicacio/monitorizacion.png)
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="ubicacio/valla.png" alt="valla" width="30%">
+  <img src="ubicacio/redonda.png" alt="redonda" width="30%">
+  <img src="ubicacio/monitorizacion.png" alt="monitorizacion" width="30%">
+</div>
 **Medida para dificultar la identificación de la sala:**  
 Las medidas de seguridad que implementaremos en la sala de los CPD será la identificación mediante una tarjeta que será asignada a cada empleado responsable del correcto funcionamiento de los servidores que esté en las instalaciones.
 
