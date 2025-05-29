@@ -12,6 +12,7 @@ Repositorio oficial del proyecto transversal del Grupo 1.
 - [2. Implantación de los servicios de audio y vídeo](#2-implantación-de-los-servicios-de-audio-y-vídeo)
 - [3. Diseño e implementación de una base de datos](#3-diseño-e-implementación-de-una-base-de-datos)
 - [4, Sostenibilidad](#4-Sostenibilidad-y-Petjada-Ecològica)
+- [5. Entrega y Presentación](#5-entrega-y-presentación)
 
 Manuales:
 -
@@ -204,5 +205,21 @@ Hemos evaluado la sostenibilidad del proyecto comparando dos escenarios: un desp
 ### 4.2. Conclusiones
 A pesar de un mayor consumo energético absoluto, el **CPD On-Premise en Noruega presenta una huella de carbono significativamente menor** (~2.79 kg CO2eq/mes) que el despliegue en AWS us-east-1 (~7.56 kg CO2eq/mes). Esto se debe principalmente al **muy bajo factor de emisión de la red eléctrica noruega (hidroeléctrica)** y al diseño optimizado para la eficiencia energética (PUE bajo).
 La elección de la fuente de energía y la eficiencia del CPD (PUE) son cruciales. Aunque la nube ofrece flexibilidad y un compromiso creciente con las energías renovables, las soluciones on-premise en regiones con energía limpia pueden ser altamente competitivas en términos de huella de carbono.
+
+---
+
+## 5. Entrega y Presentación
+
+Para la evaluación de este proyecto, hemos preparado los siguientes materiales y nos ceñiremos a los requisitos de entrega.
+
+### 5.1. Vídeo Demostrativo (3 minutos)
+Hemos creado un vídeo conciso que incluye una demostración del funcionamiento de los servicios, mostrando la interacción entre servidores y clientes. 
+
+[Video Demostrativo](Proyecto%20transversal/VIDEO/VideoGrupo1.mp4)
+
+### 5.2. Exposición del Proyecto (10-15 minutos)
+
+**Material de Presentación:**
+[Presentación del Proyecto - Canva](https://www.canva.com/design/DAGoonvVZMM/eMKqj7OdhAb2TyNYxsX1eg/edit?utm_content=DAGoonvVZMM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
