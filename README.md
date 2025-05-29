@@ -11,15 +11,15 @@ Repositorio oficial del proyecto transversal del Grupo 1.
 - [1. Propuesta de CPD](#1-propuesta-de-cpd)
 - [2. Implantación de los servicios de audio y vídeo](#2-implantación-de-los-servicios-de-audio-y-vídeo)
 - [3. Diseño e implementación de una base de datos](#3-diseño-e-implementación-de-una-base-de-datos)
-- Sostenibilidad (Nota: Este parece un punto general, si es un apartado específico, habría que crearlo y enlazarlo)
+- [4, Sostenibilidad](#4-Sostenibilidad-y-Petjada-Ecològica)
 
 Manuales:
 -
-  - [BBDD](manuales/SMB%20y%20Monitoreo%20%28manual%29.pdf)
-  - [Audio y Video](manuales/SMB%20y%20Monitoreo%20%28manual%29.pdf)
-  - [SMB y Monitoreo](manuales/SMB%20y%20Monitoreo%20%28manual%29.pdf)
-  - [DNS](manuales/SMB%20y%20Monitoreo%20%28manual%29.pdf)
-  - [Web](manuales/SMB%20y%20Monitoreo%20%28manual%29.pdf)
+  - [BBDD](manuales/BBDD%20%28manual%29.pdf)
+  - [Audio y Video](manuales/Audio%20y%20Video%20%28manual%29.pdf)
+  - [NFS y Monitoreo](manuales/NFS%20y%20Monitoreo%20%28manual%29.pdf)
+  - [DNS](manuales/DNS%20%28manual%29.pdf)
+  - [Web](manuales/WEB%20%28manual%29.pdf)
 
 ---
 
